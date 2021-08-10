@@ -1,0 +1,71 @@
+body {
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: 100% 800%;
+        background-image: linear-gradient(145deg, blue, purple);
+        margin: 0px;
+        padding: 0px;
+        display: flex;
+        text-align: center;
+        justify-content: center;
+        width: 100%;
+    }
+
+
+
+    .container {
+        background-color: white;
+        margin: 12px;
+        margin-top: 10%;
+        font-family: 'Poppins', sans-serif;
+        border-radius: 5px;
+        width: 400px;
+        box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    }
+
+    .input_field {
+        padding: 8px;
+        width: 80%;
+        border-left: 0px;
+        border-top: 0px;
+        border-right: 0px;
+        outline: none;
+        border-bottom: 2px solid rgb(123, 123, 252);
+        border-bottom-color: rgb(0, 191, 255);
+
+
+    }
+
+    .input_field:focus {
+        width: 75%;
+        transition: 0.2s ease;
+        border-radius: 4px;
+        border: 2px solid rgb(123, 123, 252);
+        padding: 13px;
+        box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+
+    }
+
+
+    .btn-field {
+        font-size: large;
+        padding: 10px;
+        width: 86%;
+        border-radius: 50px;
+        border: 0px;
+        background-image: linear-gradient(145deg, rgb(49, 49, 255), purple);
+        margin-top: 15px;
+        font-family: 'Baloo Chettan 2', cursive;
+        color: white;
+        box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    }
+
+    .btn-field:active {
+        background-color: rgb(166, 166, 255);
+    }
+
+
+    .forget_passowrd {
+        font-size: 14px;
+        text-decoration: none;
+    }
