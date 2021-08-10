@@ -6,7 +6,7 @@
 - ***MIT Licensed***
 
 # Preview
-![Preview](https://github.com/faizanscommunit/HTML-Login-Form/blob/main/preview.png?raw=true)
+![Preview](https://github.com/faizanscommunit/Html-Login-Form-2/blob/main/preview.png?raw=true)
 ------------
 *Website: https://faizanscommunit.pythonanywhere.com/*
 
